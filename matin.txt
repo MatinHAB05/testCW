@@ -3,3 +3,4 @@ salam man matin hasanalibaki hastam.
 commit2 !!!!
 
 commit2----->commit6
+commit6----->commit7
